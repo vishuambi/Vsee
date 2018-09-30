@@ -7,3 +7,8 @@ Watch videos simultaneously, change and chat.
 - snickers
 - icecream
 - chips
+
+# mobiles
+- lg
+- mi
+- moto
