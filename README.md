@@ -12,3 +12,7 @@ Watch videos simultaneously, change and chat.
 - lg
 - mi
 - moto
+
+# close
+- bank accout
+- facebook
